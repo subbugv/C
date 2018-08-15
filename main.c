@@ -9,5 +9,5 @@ int main()
     printf("%d %d", i, x);
     printf(x ? "\ntrue" : "\nfalse");
     printf("%s", x ? "\ntrue" : "\nfalse");
-    return 0;
+    return 1;
 }
